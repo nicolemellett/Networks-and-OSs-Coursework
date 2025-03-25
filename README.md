@@ -5,7 +5,7 @@ Week by week breakdown:
 Week 1 - no lab
 Week 2 - Basic intro to Python 
 Week 3 - Appliction Layer
-Week 4 - 
+Week 4 - Transport Layer
 Week 5 -
 Week 6 - 
 Week 7 - Network Access Layer
