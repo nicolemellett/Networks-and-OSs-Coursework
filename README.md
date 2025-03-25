@@ -3,9 +3,9 @@ This repository holds all coursework relating to my Networks and Operating Syste
 Week by week breakdown:
 
 Week 1 - no lab
-Week 2 - Basic intro to Python
-Week 3 - Appliction layer
+Week 2 - Basic intro to Python 
+Week 3 - Appliction Layer
 Week 4 - 
 Week 5 -
 Week 6 - 
-Week 7 - 
+Week 7 - Network Access Layer
