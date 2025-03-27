@@ -11,5 +11,5 @@ Week 2 - Basic introduction to Python techniques </br>
 Week 3 - Appliction Layer </br>
 Week 4 - Transport Layer </br>
 Week 5 - Transport Layer pt 2     </br>
-Week 6 -         </br>
+Week 6 - Internet Layer        </br>
 Week 7 - Network Access Layer </br>
